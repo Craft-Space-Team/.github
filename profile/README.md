@@ -1,6 +1,4 @@
-# Craft-Space
-Craft Space 生存服务器Github页
+# Craft Space Team
+工艺空间团队，主营公益性质 Minecraft 多人游戏服务，也有 Craft 系列 Mod 、插件等，官网 https://craftspace.top/ 。
 
-这里应该写简介
 
-↑还没时间
